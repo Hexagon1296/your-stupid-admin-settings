@@ -3,7 +3,10 @@
     <g data-paper-data="{&quot;isPaintingLayer&quot;:true}" fill="none" fill-rule="nonzero" stroke="none" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" style="mix-blend-mode: normal">
       <path stroke="#3a3a3c"
         d="M 216,160
-        l 4,-4"
+        l 4,-4
+        h 12.5
+        l 2 2
+        h 3"
         />
     </g>
   </g>
